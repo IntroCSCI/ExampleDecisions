@@ -14,7 +14,7 @@ int main()
   {
     cout<<"This is case A"<<endl;
   }
-  else if( whole1 == whole2 && whole1 == whole2 )
+  else if( whole1 == whole2 && whole1 == whole3 )
   {
     cout<<"This is case B"<<endl;
   }
